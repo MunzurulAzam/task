@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## Guideline
+
+1. use Flutter SDk version 3.24.3 for run this app
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
